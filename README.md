@@ -11,11 +11,7 @@ Your solution should consist of:
 
 All three tasks are aimed toward a single final goal, yet can be worked on independently.
 
-📅 **Submission Deadline:** **16th August, 11:59 PM**
-
----
-
-#### Teams with complete submissions will be eligible for evaluation and rewards 🙂
+You can find the required world and models files at the given link: https://kevinbmathew.github.io/ros2-hackathon-world/
 ___
 
 ## Problem Statement
